@@ -26,9 +26,9 @@ Welcome to the repository for the Ultimate Solidity, Blockchain, and Smart Contr
     - [Remix](#remix)
     - [Basic Solidity](#basic-solidity)
     - [Deploying to a "Live" network](#deploying-to-a-live-network)
-- [Lesson 2: Storage Factory](#lesson-2-storage-factory)
+- [Lesson 2: Storage Factory](#lesson-2-storage-factory) ADDING/INPUT DETAILS
     - [Inheritance, Factory Pattern, and Interacting with External Contracts](#inheritance-factory-pattern-and-interacting-with-external-contracts)
-- [Lesson 3: Fund Me](#lesson-3-fund-me)
+- [Lesson 3: Fund Me](#lesson-3-fund-me) PAYMENT CODE
     - [Payable, msg.sender, msg.value, Units of Measure](#payable-msgsender-msgvalue-units-of-measure)
     - [Chainlink Oracles](#chainlink-oracles)
     - [Importing from NPM and Advanced Solidity](#importing-from-npm-and-advanced-solidity)
